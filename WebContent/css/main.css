@@ -1,0 +1,24 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+/* #container {
+  display: flex;
+  justify-content: center;
+} */
+.nav-categories {
+	background-color: black;
+	color: white;
+	height: 3rem;
+	padding: 0 20%;
+}
+
+a.nav-category-item {
+	color: white;
+}
+
+a.navbar-brand, a.nav-link {
+	color: black;
+}
